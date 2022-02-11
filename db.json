@@ -1,9 +1,9 @@
 {
   "products": [
     {
-      "id": 2,
+      "id": 1,
       "name": "iPhone 11 Pro Max",
-      "price": "",
+      "price": 1380,
       "color": "",
       "memorySize": "",
       "display": "5.8-inch Super Retina XDR OLED display",
@@ -15,121 +15,60 @@
       "charging": "Fast charge with 18W adapter included",
       "memory": [
         {
-          "size": 128,
-          "price": 1380
+          "size": 128
         },
         {
-          "size": 256,
-          "price": 1450
+          "size": 256
         },
         {
-          "size": 512,
-          "price": 1568
+          "size": 512
         }
       ],
-      "image": [
+      "images": [
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/0.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/1.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/2.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/3.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/4.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/all.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "iPhone 11",
+      "price": 88,
+      "color": "",
+      "memorySize": "",
+      "display": "5.8-inch Super Retina XDR OLED display",
+      "waterResistant": "Water and dust resistant (4 metres for up to 30 minutes, IP68)",
+      "camera": "Triple-camera system with 12MP Ultra Wide, Wide, and Telephoto cameras; Night mode, Portrait mode, and 4K video up to 60fps",
+      "frontCamera": "12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo",
+      "futures": "Face ID for secure authentication and Apple Pay",
+      "processor": "A13 Bionic chip with third-generation Neural Engine",
+      "charging": "Fast charge with 18W adapter included",
+      "memory": [
         {
-          "color": "darkslategrey",
-          "phoneColor": "Space Grey",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/4.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/all.jpg"
-            }
-          ]
+          "size": 64
         },
         {
-          "color": "silver",
-          "phoneColor": "Silver",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/silver.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/silver1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/silver2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/silver3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/silver4.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/all.jpg"
-            }
-          ]
+          "size": 128
         },
         {
-          "color": "grey",
-          "phoneColor": "Midnight Green",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/4.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/all.jpg"
-            }
-          ]
-        },
-        {
-          "color": "palegoldenrod",
-          "phoneColor": "Gold",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/4.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/all.jpg"
-            }
-          ]
+          "size": 256
         }
+      ],
+      "images": [
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/0.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/1.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/2.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/3.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/all.jpg"
       ]
     },
     {
       "id": 3,
-      "name": "iPhone 11",
-      "price": "",
+      "name": "Samsung Galaxy S10",
+      "price": 9889,
       "color": "",
       "memorySize": "",
       "display": "5.8-inch Super Retina XDR OLED display",
@@ -141,109 +80,27 @@
       "charging": "Fast charge with 18W adapter included",
       "memory": [
         {
-          "size": 64,
-          "price": 970
+          "size": 128
         },
         {
-          "size": 128,
-          "price": 1050
+          "size": 256
         },
         {
-          "size": 256,
-          "price": 1180
+          "size": 512
         }
       ],
-      "image": [
-        {
-          "phoneColor": "Yellow",
-          "color": "yellow",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/yellow/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/yellow/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/yellow/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/yellow/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/yellow/all.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Black",
-          "color": "black",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/black/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/black/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/black/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/black/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/black/all.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Green",
-          "color": "lightseagreen",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/green/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/green/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/green/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/green/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/green/all.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Red",
-          "color": "red",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/red/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/red/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/red/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/red/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/red/all.jpg"
-            }
-          ]
-        }
+      "images": [
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/0.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/1.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/2.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/3.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/all.jpg"
       ]
     },
     {
       "id": 4,
-      "name": "Samsung Galaxy S10",
-      "price": "",
+      "name": "Samsung Galaxy S20",
+      "price": 99883,
       "color": "",
       "memorySize": "",
       "display": "5.8-inch Super Retina XDR OLED display",
@@ -255,61 +112,26 @@
       "charging": "Fast charge with 18W adapter included",
       "memory": [
         {
-          "size": 128,
-          "price": 1040
+          "size": 128
         },
         {
-          "size": 256,
-          "price": 1100
+          "size": 256
         },
         {
-          "size": 512,
-          "price": 1230
+          "size": 512
         }
       ],
-      "image": [
-        {
-          "phoneColor": "White",
-          "color": "white",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s10/white/0.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Black",
-          "color": "black",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s10/black/0.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Green",
-          "color": "lightseagreen",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s10/green/0.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Silver",
-          "color": "silver",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s10/silver/0.jpg"
-            }
-          ]
-        }
+      "images": [
+        "https://shop-app-angular.herokuapp.com/assets/img/s20/pink/0.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/s20/pink/1.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/s20/pink/3.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/s20/pink/all.jpg"
       ]
     },
     {
       "id": 5,
-      "name": "Samsung Galaxy S20",
-      "price": "",
+      "name": "Huawei P30 Pro",
+      "price": 76554,
       "color": "",
       "memorySize": "",
       "display": "5.8-inch Super Retina XDR OLED display",
@@ -321,132 +143,24 @@
       "charging": "Fast charge with 18W adapter included",
       "memory": [
         {
-          "size": 128,
-          "price": 1340
+          "size": 256
         },
         {
-          "size": 256,
-          "price": 1399
-        },
-        {
-          "size": 512,
-          "price": 1490
+          "size": 512
         }
       ],
-      "image": [
-        {
-          "phoneColor": "Pink",
-          "color": "pink",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/pink/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/pink/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/pink/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/pink/all.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Black",
-          "color": "black",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/black/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/black/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/black/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/black/all.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Grey",
-          "color": "grey",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/grey/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/grey/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/grey/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/s20/grey/all.jpg"
-            }
-          ]
-        }
+      "images": [
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/0.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/1.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/2.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/3.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11/black/all.jpg"
       ]
     },
     {
       "id": 6,
-      "name": "Huawei P30 Pro",
-      "price": "",
-      "color": "",
-      "memorySize": "",
-      "display": "5.8-inch Super Retina XDR OLED display",
-      "waterResistant": "Water and dust resistant (4 metres for up to 30 minutes, IP68)",
-      "camera": "Triple-camera system with 12MP Ultra Wide, Wide, and Telephoto cameras; Night mode, Portrait mode, and 4K video up to 60fps",
-      "frontCamera": "12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo",
-      "futures": "Face ID for secure authentication and Apple Pay",
-      "processor": "A13 Bionic chip with third-generation Neural Engine",
-      "charging": "Fast charge with 18W adapter included",
-      "memory": [
-        {
-          "size": 256,
-          "price": 1440
-        },
-        {
-          "size": 512,
-          "price": 1599
-        }
-      ],
-      "image": [
-        {
-          "phoneColor": "Amber Sunrise",
-          "color": "linear-gradient(to top, #ae0e18, #c34012, #d46508, #e28903, #ebac12)",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/p30/ambersunrise.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Black",
-          "color": "black",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/p30/black.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Aurora",
-          "color": "linear-gradient(to top, #0e49ae, #005eb0, #006ca3, #007690, #0e7d7f)",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/p30/aurora.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 7,
       "name": "iPhone 11 Pro Max",
-      "price": "",
+      "price": 34322,
       "color": "",
       "memorySize": "",
       "display": "5.8-inch Super Retina XDR OLED display",
@@ -458,229 +172,22 @@
       "charging": "Fast charge with 18W adapter included",
       "memory": [
         {
-          "size": 128,
-          "price": 1380
+          "size": 128
         },
         {
-          "size": 256,
-          "price": 1450
+          "size": 256
         },
         {
-          "size": 512,
-          "price": 1568
+          "size": 512
         }
       ],
-      "image": [
-        {
-          "color": "darkslategrey",
-          "phoneColor": "Space Grey",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/4.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/all.jpg"
-            }
-          ]
-        },
-        {
-          "color": "silver",
-          "phoneColor": "Silver",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/silver.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/silver1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/silver2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/silver3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/silver4.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/silver/all.jpg"
-            }
-          ]
-        },
-        {
-          "color": "grey",
-          "phoneColor": "Midnight Green",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/4.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/midnight/all.jpg"
-            }
-          ]
-        },
-        {
-          "color": "palegoldenrod",
-          "phoneColor": "Gold",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/4.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11pro/gold/all.jpg"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 8,
-      "name": "iPhone 11",
-      "price": "",
-      "color": "",
-      "memorySize": "",
-      "display": "5.8-inch Super Retina XDR OLED display",
-      "waterResistant": "Water and dust resistant (4 metres for up to 30 minutes, IP68)",
-      "camera": "Triple-camera system with 12MP Ultra Wide, Wide, and Telephoto cameras; Night mode, Portrait mode, and 4K video up to 60fps",
-      "frontCamera": "12MP TrueDepth front camera with Portrait mode, 4K video, and Slo-Mo",
-      "futures": "Face ID for secure authentication and Apple Pay",
-      "processor": "A13 Bionic chip with third-generation Neural Engine",
-      "charging": "Fast charge with 18W adapter included",
-      "memory": [
-        {
-          "size": 64,
-          "price": 970
-        },
-        {
-          "size": 128,
-          "price": 1050
-        },
-        {
-          "size": 256,
-          "price": 1180
-        }
-      ],
-      "image": [
-        {
-          "phoneColor": "Yellow",
-          "color": "yellow",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/yellow/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/yellow/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/yellow/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/yellow/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/yellow/all.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Black",
-          "color": "black",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/black/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/black/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/black/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/black/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/black/all.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Green",
-          "color": "lightseagreen",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/green/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/green/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/green/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/green/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/green/all.jpg"
-            }
-          ]
-        },
-        {
-          "phoneColor": "Red",
-          "color": "red",
-          "path": [
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/red/0.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/red/1.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/red/2.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/red/3.jpg"
-            },
-            {
-              "img": "https://shop-app-angular.herokuapp.com/assets/img/11/red/all.jpg"
-            }
-          ]
-        }
+      "images": [
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/0.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/1.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/2.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/3.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/4.jpg",
+        "https://shop-app-angular.herokuapp.com/assets/img/11pro/space-grey/all.jpg"
       ]
     }
   ]
