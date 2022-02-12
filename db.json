@@ -15,12 +15,15 @@
       "charging": "Fast charge with 18W adapter included",
       "memory": [
         {
+          "sizeId": 1,
           "size": 128
         },
         {
+          "sizeId": 2,
           "size": 256
         },
         {
+          "sizeId": 3,
           "size": 512
         }
       ],
@@ -48,12 +51,15 @@
       "charging": "Fast charge with 18W adapter included",
       "memory": [
         {
+          "sizeId": 1,
           "size": 64
         },
         {
+          "sizeId": 2,
           "size": 128
         },
         {
+          "sizeId": 3,
           "size": 256
         }
       ],
@@ -80,12 +86,15 @@
       "charging": "Fast charge with 18W adapter included",
       "memory": [
         {
+          "sizeId": 1,
           "size": 128
         },
         {
+          "sizeId": 2,
           "size": 256
         },
         {
+          "sizeId": 3,
           "size": 512
         }
       ],
@@ -112,12 +121,15 @@
       "charging": "Fast charge with 18W adapter included",
       "memory": [
         {
+          "sizeId": 1,
           "size": 128
         },
         {
+          "sizeId": 2,
           "size": 256
         },
         {
+          "sizeId": 3,
           "size": 512
         }
       ],
@@ -143,9 +155,11 @@
       "charging": "Fast charge with 18W adapter included",
       "memory": [
         {
+          "sizeId": 1,
           "size": 256
         },
         {
+          "sizeId": 2,
           "size": 512
         }
       ],
@@ -172,12 +186,15 @@
       "charging": "Fast charge with 18W adapter included",
       "memory": [
         {
+          "sizeId": 1,
           "size": 128
         },
         {
+          "sizeId": 2,
           "size": 256
         },
         {
+          "sizeId": 3,
           "size": 512
         }
       ],
