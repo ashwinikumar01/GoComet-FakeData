@@ -1,7 +1,3 @@
-/*popularity -> Lower value means More Priority
-customerRating -> Lower value means More Priority
-betterDiscount -> Lower value means More Priority
-*/
 {
   "products": [
     {
