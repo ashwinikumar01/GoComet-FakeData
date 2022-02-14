@@ -41,7 +41,7 @@
     {
       "id": 2,
       "brand": "Roadster",
-      "price": 78,
+      "price": 789,
       "color": "Blue",
       "gender": "Men",
       "popularity": 6,
@@ -79,7 +79,7 @@
     {
       "id": 3,
       "brand": "Park Avenue",
-      "price": 30,
+      "price": 365,
       "color": "Pink",
       "gender": "Women",
       "popularity": 9,
@@ -156,7 +156,7 @@
     {
       "id": 5,
       "brand": "Pantaloons Junior",
-      "price": 25,
+      "price": 685,
       "color": "Lavender",
       "gender": "Boys",
       "popularity": 2,
