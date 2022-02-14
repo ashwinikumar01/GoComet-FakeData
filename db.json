@@ -3,7 +3,7 @@
     {
       "id": 1,
       "brand": "Dennis Lingo",
-      "price": 554,
+      "price": 250,
       "color": "Black",
       "gender": "Men",
       "popularity": 1,
@@ -41,7 +41,7 @@
     {
       "id": 2,
       "brand": "Roadster",
-      "price": 899,
+      "price": 78,
       "color": "Blue",
       "gender": "Men",
       "popularity": 6,
@@ -79,7 +79,7 @@
     {
       "id": 3,
       "brand": "Park Avenue",
-      "price": 679,
+      "price": 30,
       "color": "Pink",
       "gender": "Women",
       "popularity": 9,
@@ -118,7 +118,7 @@
     {
       "id": 4,
       "brand": "HERE&NOW",
-      "price": 479,
+      "price": 340,
       "color": "Red",
       "gender": "Boys",
       "popularity": 10,
@@ -156,7 +156,7 @@
     {
       "id": 5,
       "brand": "Pantaloons Junior",
-      "price": 1200,
+      "price": 25,
       "color": "Lavender",
       "gender": "Boys",
       "popularity": 2,
@@ -193,7 +193,7 @@
     {
       "id": 6,
       "brand": "Dennis Lingo",
-      "price": 554,
+      "price": 165,
       "color": "Pink",
       "gender": "Men",
       "popularity": 5,
@@ -230,7 +230,7 @@
     {
       "id": 7,
       "brand": "Sassafras",
-      "price": 3498,
+      "price": 555,
       "color": "Black",
       "gender": "Women",
       "popularity": 8,
@@ -268,7 +268,7 @@
     {
       "id": 8,
       "brand": "Sassafras",
-      "price": 2465,
+      "price": 765,
       "color": "Maroon",
       "gender": "Women",
       "popularity": 3,
@@ -305,7 +305,7 @@
     {
       "id": 9,
       "brand": "UTH by Roadster",
-      "price": 1500,
+      "price": 685,
       "color": "Brown",
       "gender": "Girls",
       "popularity": 4,
@@ -343,7 +343,7 @@
     {
       "id": 10,
       "brand": "Gini and Jony",
-      "price": 1105,
+      "price": 923,
       "color": "Maroon",
       "gender": "Girls",
       "popularity": 7,
